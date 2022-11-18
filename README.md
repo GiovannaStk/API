@@ -1,6 +1,6 @@
 # Consumir API
 Consumindo uma API fake no backend e no frontend
-*Desenvolvido em aula da Rocketseat
+<br/>*Desenvolvido em aula da Rocketseat
 
 ## API passos 
 
